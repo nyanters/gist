@@ -7,3 +7,6 @@
 [submodule "m3u_deadlink_checker"]
   path = m3u_deadlink_checker
   url = https://gist.github.com/nyanters/436b0ed447c11c42fa610c0acd9bc634
+[submodule "rip_audio_cd_as_flac"]
+	path = rip_audio_cd_as_flac
+	url = https://gist.github.com/nyanters/0ee36fb2a8bb3ad01eb2523836f3d2d7
